@@ -1,0 +1,14 @@
+{
+  "name": "dragonx-120-pattern-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Historical sequence pattern analysis API with 120+ descriptive detectors",
+  "main": "lib/dragonx.js",
+  "scripts": {
+    "start": "node local-server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
